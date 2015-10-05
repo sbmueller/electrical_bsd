@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 30.999998 31.000001"
+   height="31"
+   width="31"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="mixer.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="962"
+     id="namedview13203"
+     showgrid="false"
+     inkscape:zoom="7.6129032"
+     inkscape:cx="21.972716"
+     inkscape:cy="20.754237"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <symbol
+       id="symbol9181">
+      <circle
+         r="64.64286"
+         cy="322.00507"
+         cx="204.64285"
+         id="path3336"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path4138"
+         d="m 151.20405,327.06637 c 0,0 16.51973,-30.67948 28.90952,-30.67948 17.1097,0 35.3994,48.37919 53.68909,48.37919 12.97978,0 27.13954,-25.36958 27.13954,-25.36958"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </symbol>
+    <symbol
+       id="Connector">
+      <title
+         id="title6196">Connector</title>
+      <desc
+         id="desc6198">Exit to or entry from another part of chart.</desc>
+      <circle
+         id="circle6200"
+         style="stroke-width:2"
+         r="20"
+         cy="75"
+         cx="75" />
+    </symbol>
+    <symbol
+       id="LogicalAnd">
+      <title
+         id="title6300">Logical And</title>
+      <desc
+         id="desc6302">Summing junction. Shows when multiple branches converge.</desc>
+      <circle
+         id="circle6304"
+         style="stroke-width:2"
+         r="20"
+         cy="75"
+         cx="75" />
+      <path
+         id="path6306"
+         style="stroke-width:2"
+         d="M 61,61 89,89" />
+      <path
+         id="path6308"
+         style="stroke-width:2"
+         d="M 61,89 89,61" />
+    </symbol>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath1">
+      <path
+         d="m 0,0 51.6732,0 0,51.6732 L 0,51.6732 0,0 0,0 Z"
+         id="path8206" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipEmfPath2">
+      <path
+         d="m 0,0 0,51.673828 51.673828,0 L 51.673828,0 0,0 Z"
+         id="path8209" />
+    </clipPath>
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-308.89285,648.95921)"
+     id="layer1"
+     style="fill:#ffffff">
+    <circle
+       r="14.939826"
+       cy="-633.41443"
+       cx="324.41696"
+       id="path13169"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.00000006;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 4.4661,5.385593 25.41737,26.336865"
+     id="path71694"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     d="M 5.3855912,26.139831 26.402541,5.1228813"
+     id="path71709"
+     inkscape:connector-curvature="0" />
+</svg>
